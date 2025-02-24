@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import { useRouter } from "next/navigation";
 import { MdOutlinePerson, MdOutlineSearch } from "react-icons/md";
 import { RiShoppingBag4Line } from "react-icons/ri";
