@@ -1,10 +1,7 @@
-import React, { useEffect, useState } from "react";
-import Image from "next/image";
+import React, { useState } from "react";
 import { FaArrowRight, FaList, FaStop } from "react-icons/fa";
 import { GoBell } from "react-icons/go";
 import Box from "@/components/box/page";
-import { FaRegBell } from "react-icons/fa6";
-import { RxDashboard } from "react-icons/rx";
 import { useRouter } from "next/navigation";
 import { MdOutlinePerson, MdOutlineSearch } from "react-icons/md";
 import { RiShoppingBag4Line } from "react-icons/ri";
